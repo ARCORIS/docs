@@ -1,0 +1,6 @@
+site_name: ARCORIS Documentation
+site_description: Public documentation for ARCORIS
+repo_name: ARCORIS/docs
+docs_dir: docs
+theme:
+  name: mkdocs
